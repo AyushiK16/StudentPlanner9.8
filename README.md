@@ -1,2 +1,2 @@
-# StudentPlanner9.8
-trying diff ways to fix the alignment
+# p5.play-boilerplate
+Boiler plate for p5.play
