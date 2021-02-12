@@ -88,14 +88,24 @@ var determinerNumber;
 
 
 function preload(){
+  dashboardImage = loadImage("pictures/2.png");
+  breakImage = loadImage("pictures/1.png");
+  reminderImage = loadImage("pictures/5.png");
+  syllabusImage = loadImage("pictures/3.png");
+  toDoImage = loadImage("pictures/4.png");
+  imageForTrex = loadImage("pictures/trexGame.png");
+  imageForMaze = loadImage("pictures/gameMazeRunner.png");
+  loginImage = loadImage("pictures/loginScreen.jpg");
+
+  /*
+
   dashboardImage = loadImage("pictures/dashboard.png");
   breakImage = loadImage("pictures/breakGames.png");
   reminderImage = loadImage("pictures/reminders.png");
   syllabusImage = loadImage("pictures/syllabus.png");
   toDoImage = loadImage("pictures/toDoList.png");
-  imageForTrex = loadImage("pictures/trexGame.png");
-  imageForMaze = loadImage("pictures/gameMazeRunner.png");
-  loginImage = loadImage("pictures/loginScreen.jpg");
+  */
+
 
 
 }
